@@ -4,13 +4,9 @@
 
 ![Banner](docs/files/2.jpg)
 
-<center>
-<img src="https://img.shields.io/badge/Realitzat_per-Víctor_Huertes_Montes-1DB4BF" alt="Tag">
-<img src="https://img.shields.io/badge/Supervisat_per-Miguel_Ángel_Marín-E6CE81" alt="Tag">
-<img src="https://img.shields.io/badge/Durant_el_curs-Batxillerat_2022-E38336" alt="Tag">
-
-<img src="docs/files/3.png" alt="Logo" width="100" height="100">
-</center>
+![Tag](https://img.shields.io/badge/Realitzat_per-Víctor_Huertes_Montes-1DB4BF)
+![Tag](https://img.shields.io/badge/Supervisat_per-Miguel_Ángel_Marín-E6CE81)
+![Tag](https://img.shields.io/badge/Durant_el_curs-Batxillerat_2022-E38336)
 
 ---
 
@@ -51,3 +47,4 @@ Finally, I have put this theoretical knowledge into practice with the help of a 
 
 ---
 
+<img src="docs/files/3.png" alt="Logo" width="100" height="100">
