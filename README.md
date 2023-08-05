@@ -54,6 +54,4 @@ Finally, I have put this theoretical knowledge into practice with the help of a 
 
 <img src="docs/files/3.png" alt="Logo" width="100" height="100">
 
-[***Testing website***](https://zvictorium.github.io/classifier/)
-
 [***GNU Affero General Public License v3.0***](LICENSE)
