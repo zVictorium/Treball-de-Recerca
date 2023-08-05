@@ -11,7 +11,7 @@
 ---
 
 > [**Document del Treball de Recerca**](docs/original.pdf)
-
+> 
 > [**Página web de práctica**](https://zvictorium.github.io/classifier/)
 
 ---
